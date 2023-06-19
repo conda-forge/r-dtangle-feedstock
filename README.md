@@ -1,11 +1,11 @@
-About r-dtangle
-===============
+About r-dtangle-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dtangle-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=dtangle
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dtangle-feedstock/blob/main/LICENSE.txt)
 
 Summary: Deconvolving cell types from high-throughput gene profiling data. 
 
